@@ -1,4 +1,4 @@
-package com.example.tiancai.weather;
+package com.example.tiancai.myweather;
 
 import org.junit.Test;
 
